@@ -2,3 +2,4 @@
 
 Installation of hono in next.js
 setup hono and create crud routes.
+set up drizzle 
